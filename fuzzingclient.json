@@ -1,0 +1,12 @@
+{
+	"servers" : [
+					{
+						"agent" : "wtcproxy",
+					 	"url" : "ws://10.100.120.56:8080"
+					}
+                ],
+
+	"cases" : ["7.1.1"],
+	"exclude-cases" : [],
+	"exclude-agent-cases" : {}
+}
