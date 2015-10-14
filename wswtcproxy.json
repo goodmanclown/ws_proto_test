@@ -1,0 +1,12 @@
+{
+	"servers" : [
+					{
+						"agent" : "wtcproxy",
+					 	"url" : "wss://10.100.120.56:443"
+					}
+                ],
+
+	"cases" : ["3.2", "1.2.6"],
+	"exclude-cases" : [],
+	"exclude-agent-cases" : {}
+}

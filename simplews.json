@@ -1,0 +1,12 @@
+{
+	"servers" : [
+					{
+						"agent" : "autobahn",
+					 	"url" : "wss://10.100.120.20:443"
+					}
+                ],
+
+	"cases" : ["1.2.6"],
+	"exclude-cases" : [],
+	"exclude-agent-cases" : {}
+}
